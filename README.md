@@ -8,3 +8,5 @@ Located in `01_Python_OOP_Recap/2.Abstraction and Constructor`
 Project: Enemy Stats CLI — a command-line demo that instantiates multiple enemy objects and simulates a game-style stat display using core OOP principles.
 
 *Focused on building robust, scalable systems for applied AI research.*
+
+### Ongoing Course : FastAPI - The Complete Course 2026 (Beginner + Advanced) by Eric Roby
