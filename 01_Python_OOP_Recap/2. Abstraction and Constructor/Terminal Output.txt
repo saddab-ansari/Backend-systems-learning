@@ -1,0 +1,44 @@
+----------------------------------------
+
+--> Goblin walked one step closer!
+
+----------------------------------------
+
+[Goblin] groans: 'I am a Goblin...'
+
+----------------------------------------
+
+ENEMY STATS SCANNED:
+Enemy Type: Goblin
+Health:     10 HP
+Damage:     1 ATK
+
+----------------------------------------
+
+--> Zombie walked one step closer!
+
+----------------------------------------
+
+[Zombie] groans: 'I am a Zombie...'
+
+----------------------------------------
+
+ENEMY STATS SCANNED:
+Enemy Type: Zombie
+Health:     15 HP
+Damage:     2 ATK
+
+----------------------------------------
+
+--> Ogre walked one step closer!
+
+----------------------------------------
+
+[Ogre] groans: 'I am a Ogre...'
+
+----------------------------------------
+
+ENEMY STATS SCANNED:
+Enemy Type: Ogre
+Health:     25 HP
+Damage:     5 ATK
