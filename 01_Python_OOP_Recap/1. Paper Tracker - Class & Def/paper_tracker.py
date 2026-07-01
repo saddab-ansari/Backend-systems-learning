@@ -1,4 +1,6 @@
 #Project: CLI Research Log Manager
+#This project was a way to revise python and work with class datatype again, before jumping into a course.
+
 TARGET_PAPERS_PER_MONTH = 4
 
 class ResearchPaper:
